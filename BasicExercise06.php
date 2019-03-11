@@ -118,7 +118,7 @@
 			echo $looneytunes['Tweetybird']['country']."</div><br><br>";
 
 			echo "<div class='test1'>".$looneytunes['SpeedyGonzales']['img']."<br>";
-			echo $looneytunes['SpeedyGonzales']['name']."</div><br>";
+			echo $looneytunes['SpeedyGonzales']['name']."<br>";
 			echo $looneytunes['SpeedyGonzales']['age']."<br>";
 			echo $looneytunes['SpeedyGonzales']['country']."</div><br>";
 	?>
