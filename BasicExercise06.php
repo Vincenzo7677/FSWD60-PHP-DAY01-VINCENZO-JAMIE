@@ -3,6 +3,10 @@
 <head>
 
 	<style type="text/css">
+	h1{
+
+		color: orange;
+	}
 	body{
 
 		text-align: center; 
@@ -17,6 +21,8 @@
 		.test1{
 
 			border: 1px solid orange;
+			padding: 20px;
+			margin: 50px;
 		}
 	</style>
 	<title>test</title>
