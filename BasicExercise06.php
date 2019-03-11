@@ -13,12 +13,19 @@
 			border-radius: 50%;
 			border: 10px solid orange;
 		}
+
+		.test1{
+
+			border: 1px solid orange;
+		}
 	</style>
 	<title>test</title>
 </head>
 <body>
 
 <div id="main">
+
+	<h1>Looney Tunes</h1>
 	<?php 
 
 			$looneytunes = array(
