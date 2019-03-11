@@ -7,11 +7,11 @@
 
 	<?php 
 
-			$array = array(
+			$looneytunes = array(
 
 				"Alien" => array(
 
-					"img" => "<img src=''>",
+					"img" => "<img src='../Exercise6/alien.jpg'>",
 					"name"=> "Alien",
 					"age" => 65,
 					"country"=> "Planet Zoran"
@@ -27,7 +27,7 @@
 					
 					),
 
-				"Daffy Duck" => array(
+				"DaffyDuck" => array(
 
 					"img" => "<img src=''>",
 					"name"=> "Daffy Duck",
@@ -53,7 +53,7 @@
 					"country"=> "Planet Nokitties"
 					
 					),
-				"Speedy Gonzales" => array(
+				"SpeedyGonzales" => array(
 
 					"img" => "<img src=''>",
 					"name"=> "Speedy Gonzales",
@@ -61,9 +61,8 @@
 					"country"=> "Planet Mechiko"
 					
 					)
-
 			);
-
+			echo $looneytunes["Alien"]["img"]["name"]["age"]["country"];
 	?>
 
 </body>
